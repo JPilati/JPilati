@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software | Desenvolvimento Web | Java | Python | TI`**
 
-Me chamo João Victor Pilati da Mota, mas prefiro ser chamado de João Mota. Sou estudante de Engenharia de Software no Centro Universitário Unisenaí e estou em busca de uma oportunidade de estágio na área de TI.
+Me chamo João Mota. Sou estudante de Engenharia de Software no Centro Universitário Unisenaí e estou em busca de uma oportunidade de estágio na área de TI.
 
 Tenho interesse em desenvolvimento web, programação orientada a objetos, criação de sistemas e soluções tecnológicas. Atualmente estou desenvolvendo projetos acadêmicos e pessoais utilizando HTML, CSS, JavaScript, Java e Python.
 
@@ -41,14 +41,13 @@ No meu GitHub, compartilho projetos como aplicações front-end e projetos em Py
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&cache_seconds=1800" 
   />
 
   <img 
     align="left" 
     alt="Tecnologias mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPilati&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPilati&theme=tokyonight&layout=compact" 
   />
 </p>
