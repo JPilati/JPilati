@@ -1,10 +1,10 @@
 # 👨‍💻 João Mota
 
-**`Estudante de Engenharia de Software | Desenvolvimento Web | Java | Python | TI`**
-
-Me chamo João Mota. Sou estudante de Engenharia de Software no Centro Universitário Unisenaí e estou em busca de uma oportunidade de estágio na área de TI.
-
-Tenho interesse em desenvolvimento web, programação orientada a objetos, criação de sistemas e soluções tecnológicas. Atualmente estou desenvolvendo projetos acadêmicos e pessoais utilizando HTML, CSS, JavaScript, Java e Python.
+- 🎓 Estudante de Engenharia de Software  
+- 💻 Desenvolvimento Web
+- 🌐 Front-End
+- 🗄️ MySQL  
+- 🖥️ TI
 
 ---
 
@@ -14,8 +14,12 @@ Tenho interesse em desenvolvimento web, programação orientada a objetos, cria�
 
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -28,11 +32,10 @@ Tenho interesse em desenvolvimento web, programação orientada a objetos, cria�
     src="https://readme-stats-fast.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://readme-stats-fast.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight&locale=pt-br" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight&locale=pt-br" 
   />
-
 </p>
