@@ -25,12 +25,12 @@
 
 <p align="left">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JPilati&theme=tokyonight"
   />
 
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight"
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPilati&theme=tokyonight"
   />
 </p>
