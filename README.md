@@ -21,16 +21,20 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas 
 
-<p align="left">
-  <img 
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JPilati&theme=tokyonight"
-  />
+<p> 
+  <img align="left"
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"  
+    src="https://readme-stats-fast.vercel.app/api?username=JPilati&show_icons=true&theme=tokyonight&locale=pt-br" 
+    />
 
   <img 
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPilati&theme=tokyonight"
-  />
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://readme-stats-fast.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight&locale=pt-br" 
+    /> 
 </p>
