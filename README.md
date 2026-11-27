@@ -51,3 +51,15 @@ Todos os meus projetos, com links para o código e para os sites: [jpilati.githu
     src="https://readme-stats-fast.vercel.app/api/top-langs/?username=JPilati&layout=compact&theme=tokyonight&locale=pt-br" 
     /> 
 </p>
+
+<br clear="both"/>
+
+---
+
+### Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JPilati/JPilati/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JPilati/JPilati/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/JPilati/JPilati/output/github-snake.svg" />
+</picture>
