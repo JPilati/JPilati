@@ -21,6 +21,18 @@
 
 ---
 
+### Projetos em destaque
+
+| Projeto | Descrição | Links |
+|---|---|---|
+| Projeto Jornada | App em Flutter para controle de documentos, colaboradores e frota, com Firebase e leitura de documentos por OCR | [Código](https://github.com/JPilati/Projeto-Jornada) · [Site](https://jpilati.github.io/Projeto-Jornada/) |
+| Arquitetura de Software | Projeto em equipe da faculdade: arquitetura de uma editora digital em Node.js e TypeScript | [Código](https://github.com/JPilati/Avaliacao-Arquitetura-de-Software) |
+| RecipeApp | Site de receitas com login, favoritos, comentários e avaliações, em Python (Flask) e MySQL | [Código](https://github.com/JPilati/RecipeApp) |
+| Front-End | Aulas e exercícios de HTML, CSS e JavaScript da faculdade | [Código](https://github.com/JPilati/Front-End) · [Site](https://jpilati.github.io/Front-End/) |
+| Calculadora | Calculadora simples em HTML, CSS e JavaScript | [Código](https://github.com/JPilati/Calculadora) |
+
+---
+
 ### 📊 Estatísticas 
 
 <p> 
