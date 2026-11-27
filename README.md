@@ -1,8 +1,10 @@
-# João Mota
+# 👨‍💻 João Mota
 
-Estudante de Engenharia de Software no UniSENAI, no Paraná. Faço projetos web e mobile e estou procurando estágio na área.
-
-Áreas de interesse: desenvolvimento web, front-end, banco de dados e TI.
+- 🎓 Estudante de Engenharia de Software  
+- 💻 Desenvolvimento Web
+- 🌐 Front-End
+- 🗄️ MySQL  
+- 🖥️ TI
 
 ---
 
